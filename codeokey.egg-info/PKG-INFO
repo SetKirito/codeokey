@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: codeokey
+Version: 0.1
+Summary: Library for programming in Minecraft
+Author: Kirito
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
